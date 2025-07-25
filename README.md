@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/piyush-yadav-203977298">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/your-x-handle">
     <img src="https://img.shields.io/badge/X-black?logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:piyushyaduvanshi6574@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
