@@ -47,17 +47,6 @@
 ![AI](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-<div align="center">
-  <img width="52%" height="210px" src="https://github-readme-stats.vercel.app/api?username=piyush72yaduvanshi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=00C7B7&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="46%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush72yaduvanshi&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Used Languages"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=piyush72yaduvanshi&theme=dark&hide_border=true&background=0d1117&ring=36BCF7&currStreakLabel=00C7B7&fire=00C7B7&stroke=0000" alt="Streak Stats"/>
-</div>
-
 ---
 
 ### ✍️ Random Dev Quote
