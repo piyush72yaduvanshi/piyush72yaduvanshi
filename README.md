@@ -47,7 +47,6 @@
 ![AI](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
