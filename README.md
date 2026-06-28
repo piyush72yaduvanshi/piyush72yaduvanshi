@@ -1,67 +1,184 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=800&lines=Hey+there!+I'm+Piyush+Yadav+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Cloud+%7C+AI+Enthusiast)](https://git.io/typing-svg)
-
----
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" alt="Piyush Avatar" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Piyush%20Yadav&fontSize=70&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Agentic%20AI%20Builder%20%7C%20MERN%20%2B%20Python%20%2B%20RAG&descAlignY=58&descSize=18&descColor=a9b1d6" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/piyush-yadav-203977298">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/your-x-handle">
-    <img src="https://img.shields.io/badge/X-black?logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:piyushyaduvanshi6574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://x.com/your-x-handle">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=piyush72yaduvanshi&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│  $ whoami                                                        │
+│  > piyush-yadav                                                  │
+│                                                         	   │
+│  $ cat about.txt                                                 │
+│  > 👨‍💻 Full-Stack Dev | MERN + Python | Agentic AI Builder       │
+│  > 🤖 Building RAG pipelines · LangChain · LangGraph agents     │
+│  > ⚡ Fastify · FastAPI · Django · Drizzle · Prisma              │
+│  > 🧬 Vector DBs: Pinecone · Qdrant · ChromaDB                  │
+│  > ☁️  AWS · Vercel · Docker · CI/CD                             │
+│  > 📍 Lucknow, India                                             │
+│                                                                  │
+│  $ git log --oneline -1                                          │
+│  > feat: always shipping, never stopping ✨                      │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-- 👨‍💻 Full-Stack Developer passionate about building scalable and impactful applications.  
-- 🕸️ Exploring **AI integration** with modern web technologies.  
-- 🎯 Focused on **MERN stack, cloud deployments & clean UI/UX**.  
+---
+
+## ⚡ What I'm Building
+
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+- 🤖 **Agentic AI Systems** with LangGraph + LangChain
+- 🧬 **RAG Pipelines** using Vector DBs (Pinecone, Qdrant)
+- ⚡ **High-perf APIs** with Fastify & FastAPI
+- 🗄️ **Scalable DBs** with Drizzle ORM & Prisma
+- ☁️ **Cloud deployments** on AWS & Vercel
+- 🎯 **Clean UIs** with React + Tailwind
+- ⚙️ Obsessed with **System Design & AI Architecture**
+
+<br clear="right"/>
 
 ---
 
-# 💻 Tech Stack
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AI](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+## 🛠️ Full Tech Arsenal
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,html,css" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
+</p>
+
+### 🧬 Vector Databases & AI Infra
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=6BE4A7"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chroma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weaviate-4CAF50?style=for-the-badge&logo=weaviate&logoColor=white"/>
+</p>
+
+### 🤖 Agentic AI & LLM Stack
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=6BE4A7"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
+### ☁️ Cloud, DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,github,git,linux" />
+</p>
+
+### 🧰 Dev Tools & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thunder_Client-7B2FBE?style=for-the-badge&logo=thunder-client&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+### 🔩 Other
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
 
 ---
-# 📊 GitHub Stats  
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush72yaduvanshi&show_icons=true&theme=tokyonight" height="160"/>
-  <br>GitHub Stats
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush72yaduvanshi&theme=tokyonight" height="160"/>
-  <br>Contribution Streak
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush72yaduvanshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=a9b1d6" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush72yaduvanshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=a9b1d6" height="170"/>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush72yaduvanshi&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=ff6b6b&currStreakLabel=36BCF7" height="170"/>
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piyush72yaduvanshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=piyush72yaduvanshi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyush72yaduvanshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</p>
 
-[![piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush72yaduvanshi&theme=merko&hide_border=true&custom_title=Contribution%20Graph&bg_color=00000000&title_color=36BCF7&color=36BCF7&point=f0ffa3&line=36BCF7&area_color=36BCF7&area=true)](https://github.com/piyush72yaduvanshi/github-readme-activity-graph)
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush72yaduvanshi&theme=tokyo-night&hide_border=true&custom_title=Piyush%27s%20Contribution%20Graph&bg_color=0d1117&color=36BCF7&line=36BCF7&point=f0ffa3&area=true&area_color=36BCF7"/>
+</p>
+
+<!--
+  🐍 SNAKE ANIMATION SETUP (one-time):
+  Create file: .github/workflows/snake.yml
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 */12 * * *" }]
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@master
+          with:
+            github_user_name: piyush72yaduvanshi
+            outputs: dist/github-contribution-grid-snake.svg
+        - uses: crazy-max/ghaction-github-pages@v2
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  Then swap the activity graph above with:
+  <img src="https://raw.githubusercontent.com/piyush72yaduvanshi/piyush72yaduvanshi/output/github-contribution-grid-snake.svg"/>
+-->
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
