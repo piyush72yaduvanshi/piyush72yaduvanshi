@@ -19,17 +19,17 @@
 ┌──────────────────────────────────────────────────────────────────┐
 │  $ whoami                                                        │
 │  > piyush-yadav                                                  │
-│                                                         	   │
+│                                                         	       │
 │  $ cat about.txt                                                 │
 │  > 👨‍💻 Full-Stack Dev | MERN + Python | Agentic AI Builder       │
 │  > 🤖 Building RAG pipelines · LangChain · LangGraph agents     │
-│  > ⚡ Fastify · FastAPI · Django · Drizzle · Prisma              │
+│  > ⚡ Fastify · FastAPI · Django · Drizzle · Prisma             │
 │  > 🧬 Vector DBs: Pinecone · Qdrant · ChromaDB                  │
-│  > ☁️  AWS · Vercel · Docker · CI/CD                             │
-│  > 📍 Lucknow, India                                             │
+│  > ☁️  AWS · Vercel · Docker · CI/CD                            │
+│  > 📍 Lucknow, India                                            │
 │                                                                  │
 │  $ git log --oneline -1                                          │
-│  > feat: always shipping, never stopping ✨                      │
+│  > feat: always shipping, never stopping ✨                     │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
